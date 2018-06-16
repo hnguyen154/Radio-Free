@@ -1,2 +1,2 @@
-# FREE AM 
-Dog is a virtual stock trading test platform. 
+# FREE RADIO 
+Free Radio is a website where we host and broadcast playlists from spotify.
